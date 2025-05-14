@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="OpenBuilds Logo" width="200">
+  <img src="logo.svg" alt="OpenBuilds Logo" width="500">
 </p>
 
 #  OpenBuilds Documentation Archive (2025)

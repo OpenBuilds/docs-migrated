@@ -1,10 +1,10 @@
-# 📚 OpenBuilds Documentation Archive (2025)
+#  OpenBuilds Documentation Archive (2025)
 
 This repository contains the archived OpenBuilds documentation.
 
-👉 **Looking for the documentation?**  
+**Looking for the documentation?**  
 Please visit the GitHub Wiki here:  
-🔗 [https://github.com/OpenBuilds/docs-migrated/wiki](https://github.com/OpenBuilds/docs-migrated/wiki)
+[https://github.com/OpenBuilds/docs-migrated/wiki](https://github.com/OpenBuilds/docs-migrated/wiki)
 
 ---
 

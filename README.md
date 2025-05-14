@@ -3,7 +3,7 @@
 This repository contains the archived OpenBuilds documentation.
 
 **Looking for the documentation?**  
-Please visit the GitHub Wiki here:  
+Please visit the Wiki section of the repository here:  
 [https://github.com/OpenBuilds/docs-migrated/wiki](https://github.com/OpenBuilds/docs-migrated/wiki)
 
 ---
